@@ -1,0 +1,6 @@
+// 4. Flutter pub get
+// cloud_firestore
+// firebase_core
+// intl
+// provider
+// uuid
